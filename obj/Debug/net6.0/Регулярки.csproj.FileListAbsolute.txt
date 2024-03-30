@@ -1,0 +1,15 @@
+C:\Users\Максим\Downloads\Регулярки\bin\Debug\net6.0\Регулярки.exe
+C:\Users\Максим\Downloads\Регулярки\bin\Debug\net6.0\Регулярки.deps.json
+C:\Users\Максим\Downloads\Регулярки\bin\Debug\net6.0\Регулярки.runtimeconfig.json
+C:\Users\Максим\Downloads\Регулярки\bin\Debug\net6.0\Регулярки.dll
+C:\Users\Максим\Downloads\Регулярки\bin\Debug\net6.0\Регулярки.pdb
+C:\Users\Максим\Downloads\Регулярки\obj\Debug\net6.0\Регулярки.csproj.AssemblyReference.cache
+C:\Users\Максим\Downloads\Регулярки\obj\Debug\net6.0\Регулярки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Downloads\Регулярки\obj\Debug\net6.0\Регулярки.AssemblyInfoInputs.cache
+C:\Users\Максим\Downloads\Регулярки\obj\Debug\net6.0\Регулярки.AssemblyInfo.cs
+C:\Users\Максим\Downloads\Регулярки\obj\Debug\net6.0\Регулярки.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\Регулярки\obj\Debug\net6.0\Регулярки.dll
+C:\Users\Максим\Downloads\Регулярки\obj\Debug\net6.0\refint\Регулярки.dll
+C:\Users\Максим\Downloads\Регулярки\obj\Debug\net6.0\Регулярки.pdb
+C:\Users\Максим\Downloads\Регулярки\obj\Debug\net6.0\Регулярки.genruntimeconfig.cache
+C:\Users\Максим\Downloads\Регулярки\obj\Debug\net6.0\ref\Регулярки.dll
